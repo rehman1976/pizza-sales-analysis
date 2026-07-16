@@ -92,6 +92,4 @@ Data Analyst
 
 ---
 
-*Practice portfolio project. Dataset source is not specified in the project files.*
-
 *Licensed under the [MIT License](LICENSE).*
