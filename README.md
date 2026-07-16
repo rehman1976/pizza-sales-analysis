@@ -68,7 +68,7 @@ flowchart LR
 ## Project Structure
 
 ```
-pizza-sales-sql-powerbi-analysis/
+pizza-sales-analysis/
 ├── dashboard/
 │   ├── pizza_sales.pbix
 │   └── dashboard_preview.png
