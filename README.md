@@ -1,6 +1,6 @@
 # Pizza Sales Performance Analysis
 
-End-to-end pizza sales analysis using SQL and Power BI — from raw data to an interactive dashboard with business recommendations.
+Analyzed **48,000+ pizza orders** and **$817K in revenue** — then built an interactive Power BI dashboard to show what's working and what isn't.
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
